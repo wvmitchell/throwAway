@@ -1,3 +1,5 @@
 # This is a README
 
-## I should probably add some more stuff...
+This project was built to help students better understand Github
+collaboration. In it, you will find descriptions on how to use issues,
+assigments, milestones, and PRs.
